@@ -1,8 +1,6 @@
 {
-  "extends": [ 
-    //npm install --save-dev eslint-config-prettier  
-    // "prettier",
-    // npm i @rocketseat/eslint-config -D    
-    "@rocketseat/eslint-config/react"
-  ]
+    "extends": [
+        // npm i @rocketseat/eslint-config -D    
+        "@rocketseat/eslint-config/react"
+    ]
 }
