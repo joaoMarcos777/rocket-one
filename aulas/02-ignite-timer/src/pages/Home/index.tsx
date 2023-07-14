@@ -10,11 +10,34 @@ import {
 } from './styles'
 
 import { useForm } from 'react-hook-form'
+import { zodResolver } from '@hookform/resolvers/zod'
+import * as zod from 'zod'
+
+// This would probably be a forms initialization on Angular
+const newCycleFormValidationSchema = zod.object({
+  task: zod.string().min(1, 'Please inform the task'),
+  minutesAmount: zod.number().min(5).max(60),
+})
+
+type NewCycleFormData = zod.infer<typeof newCycleFormValidationSchema>
 
 export function Home() {
-  const { register, handleSubmit, watch } = useForm()
+  // Seems like the formBuilder on Angular
+  // *Kinda works the same way*
 
-  function handleCreateNewCycle(data: any) {
+  // formState is an obj that has many attributes, including the errors object
+  // The errors can be used to display error messages to the user
+  const { register, handleSubmit, watch, formState } =
+    useForm<NewCycleFormData>({
+      // Here you're passing the forms and his validations to useForm do his work by zodResolver
+      resolver: zodResolver(newCycleFormValidationSchema),
+      defaultValues: {
+        task: '',
+        minutesAmount: 0,
+      },
+    })
+
+  function handleCreateNewCycle(data: NewCycleFormData) {
     console.log(data)
   }
 
