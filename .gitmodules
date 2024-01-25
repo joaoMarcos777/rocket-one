@@ -1,0 +1,3 @@
+[submodule "desafios/todo-list"]
+	path = desafios/todo-list
+	url = https://github.com/joaoMarcos777/todo-list
