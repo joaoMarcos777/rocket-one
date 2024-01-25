@@ -18,7 +18,7 @@ export function Comment({ content, onDeleteComment }) {
 
   return (
     <div className={styles.comment}>
-      <Avatar hasBorder={false} src="https://github.com/Joao-M4rcos.png" />
+      <Avatar hasBorder={false} src="https://github.com/joaoMarcos777.png" />
 
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
