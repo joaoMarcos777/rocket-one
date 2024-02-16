@@ -4,3 +4,6 @@
 [submodule "explorer/aulas/explorer-projeto-01"]
 	path = explorer/aulas/explorer-projeto-01
 	url = https://github.com/joaoMarcos777/explorer-projeto-01
+[submodule "explorer/desafios/flutuar"]
+	path = explorer/desafios/flutuar
+	url = https://github.com/joaoMarcos777/flutuar
