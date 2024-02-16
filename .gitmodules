@@ -7,3 +7,9 @@
 [submodule "explorer/desafios/fluttuar"]
 	path = explorer/desafios/fluttuar
 	url = https://github.com/joaoMarcos777/fluttuar
+[submodule "explorer/aulas/explorer-projeto-02"]
+	path = explorer/aulas/explorer-projeto-02
+	url = https://github.com/joaoMarcos777/explorer-projeto-02
+[submodule "explorer/desafios/rocket-sect"]
+	path = explorer/desafios/rocket-sect
+	url = https://github.com/joaoMarcos777/rocket-sect
