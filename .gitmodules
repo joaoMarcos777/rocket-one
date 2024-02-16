@@ -1,6 +1,9 @@
 [submodule "reactjs/desafios/todo-list"]
 	path = reactjs/desafios/todo-list
 	url = https://github.com/joaoMarcos777/todo-list
-[submodule "explorer/explorer-projeto-01"]
-	path = explorer/explorer-projeto-01
+[submodule "explorer/desafios/explorer-projeto-01"]
+	path = explorer/desafios/explorer-projeto-01
+	url = https://github.com/joaoMarcos777/explorer-projeto-01
+[submodule "explorer/aulas/explorer-projeto-01"]
+	path = explorer/aulas/explorer-projeto-01
 	url = https://github.com/joaoMarcos777/explorer-projeto-01
