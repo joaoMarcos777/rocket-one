@@ -13,3 +13,9 @@
 [submodule "explorer/desafios/rocket-sect"]
 	path = explorer/desafios/rocket-sect
 	url = https://github.com/joaoMarcos777/rocket-sect
+[submodule "explorer/aulas/explorer-projeto-03"]
+	path = explorer/aulas/explorer-projeto-03
+	url = https://github.com/joaoMarcos777/explorer-projeto-03
+[submodule "explorer/desafios/mentoring"]
+	path = explorer/desafios/mentoring
+	url = https://github.com/joaoMarcos777/mentoring
