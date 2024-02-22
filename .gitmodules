@@ -19,3 +19,12 @@
 [submodule "explorer/desafios/mentoring"]
 	path = explorer/desafios/mentoring
 	url = https://github.com/joaoMarcos777/mentoring
+[submodule "explorer/aulas/explorer-projeto-06"]
+	path = explorer/aulas/explorer-projeto-06
+	url = https://github.com/joaoMarcos777/explorer-projeto-06
+[submodule "explorer/aulas/explorer-projeto-05"]
+	path = explorer/aulas/explorer-projeto-05
+	url = https://github.com/joaoMarcos777/explorer-projeto-05
+[submodule "explorer/aulas/explorer-projeto-04"]
+	path = explorer/aulas/explorer-projeto-04
+	url = https://github.com/joaoMarcos777/explorer-projeto-04
