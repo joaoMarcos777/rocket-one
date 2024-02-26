@@ -28,3 +28,15 @@
 [submodule "explorer/aulas/explorer-projeto-04"]
 	path = explorer/aulas/explorer-projeto-04
 	url = https://github.com/joaoMarcos777/explorer-projeto-04
+[submodule "explorer/aulas/explorer-projetos-js"]
+	path = explorer/aulas/explorer-projetos-js
+	url = https://github.com/joaoMarcos777/explorer-projetos-js
+[submodule "explorer/desafios/explorer-js-practice-01"]
+	path = explorer/desafios/explorer-js-practice-01
+	url = https://github.com/joaoMarcos777/explorer-js-practice-01
+[submodule "explorer/desafios/cat-blog"]
+	path = explorer/desafios/cat-blog
+	url = https://github.com/joaoMarcos777/cat-blog
+[submodule "explorer/aulas/explorer-projeto-07"]
+	path = explorer/aulas/explorer-projeto-07
+	url = https://github.com/joaoMarcos777/explorer-projeto-07
