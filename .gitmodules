@@ -40,3 +40,12 @@
 [submodule "explorer/aulas/explorer-projeto-07"]
 	path = explorer/aulas/explorer-projeto-07
 	url = https://github.com/joaoMarcos777/explorer-projeto-07
+[submodule "explorer/desafios/sem-limites"]
+	path = explorer/desafios/sem-limites
+	url = https://github.com/joaoMarcos777/sem-limites
+[submodule "explorer/desafios/explorer-intensivo-js"]
+	path = explorer/desafios/explorer-intensivo-js
+	url = https://github.com/joaoMarcos777/explorer-intensivo-js
+[submodule "explorer/desafios/explorer-js-practice-02"]
+	path = explorer/desafios/explorer-js-practice-02
+	url = https://github.com/joaoMarcos777/explorer-js-practice-02
