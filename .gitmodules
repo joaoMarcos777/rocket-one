@@ -49,3 +49,12 @@
 [submodule "explorer/desafios/explorer-js-practice-02"]
 	path = explorer/desafios/explorer-js-practice-02
 	url = https://github.com/joaoMarcos777/explorer-js-practice-02
+[submodule "explorer/aulas/bmi-calculation"]
+	path = explorer/aulas/bmi-calculation
+	url = https://github.com/joaoMarcos777/bmi-calculation
+[submodule "explorer/aulas/guess-game"]
+	path = explorer/aulas/guess-game
+	url = https://github.com/joaoMarcos777/guess-game
+[submodule "explorer/desafios/fortune-cookie"]
+	path = explorer/desafios/fortune-cookie
+	url = https://github.com/joaoMarcos777/fortune-cookie
