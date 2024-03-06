@@ -58,3 +58,9 @@
 [submodule "explorer/desafios/fortune-cookie"]
 	path = explorer/desafios/fortune-cookie
 	url = https://github.com/joaoMarcos777/fortune-cookie
+[submodule "explorer/desafios/focus-timer-2.0"]
+	path = explorer/desafios/focus-timer-2.0
+	url = https://github.com/joaoMarcos777/focus-timer-2.0
+[submodule "explorer/aulas/focus-timer"]
+	path = explorer/aulas/focus-timer
+	url = https://github.com/joaoMarcos777/focus-timer
