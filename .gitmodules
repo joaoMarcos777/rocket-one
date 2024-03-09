@@ -71,3 +71,6 @@
 [submodule "explorer/aulas/explorer-projeto-07"]
 	path = explorer/aulas/explorer-projeto-07
 	url = https://github.com/joaoMarcos777/explorer-projeto-07
+[submodule "test"]
+	path = explorer/aulas/explorer-projeto-07
+	url = https://github.com/joaoMarcos777/explorer-projeto-07
