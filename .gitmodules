@@ -64,3 +64,6 @@
 [submodule "explorer/aulas/github-favorites"]
 	path = explorer/aulas/github-favorites
 	url = https://github.com/joaoMarcos777/github-favorites
+[submodule "explorer/desafios/spa-universe"]
+	path = explorer/desafios/spa-universe
+	url = https://github.com/joaoMarcos777/spa-universe
