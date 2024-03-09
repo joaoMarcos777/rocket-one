@@ -37,9 +37,6 @@
 [submodule "explorer/desafios/cat-blog"]
 	path = explorer/desafios/cat-blog
 	url = https://github.com/joaoMarcos777/cat-blog
-[submodule "explorer/aulas/explorer-projeto-07"]
-	path = explorer/aulas/explorer-projeto-07
-	url = https://github.com/joaoMarcos777/explorer-projeto-07
 [submodule "explorer/desafios/sem-limites"]
 	path = explorer/desafios/sem-limites
 	url = https://github.com/joaoMarcos777/sem-limites
@@ -64,3 +61,6 @@
 [submodule "explorer/aulas/focus-timer"]
 	path = explorer/aulas/focus-timer
 	url = https://github.com/joaoMarcos777/focus-timer
+[submodule "explorer/aulas/github-favorites"]
+	path = explorer/aulas/github-favorites
+	url = https://github.com/joaoMarcos777/github-favorites
