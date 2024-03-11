@@ -68,12 +68,6 @@
 	path = explorer/desafios/spa-universe
 	url = https://github.com/joaoMarcos777/spa-universe
 
-[submodule "explorer/aulas/explorer-projeto-07"]
-	path = explorer/aulas/explorer-projeto-07
-	url = https://github.com/joaoMarcos777/explorer-projeto-07
-[submodule "explorer/aulas/explorer-projeto-07"]
-	path = explorer/aulas/explorer-projeto-07
-	url = https://github.com/joaoMarcos777/explorer-projeto-07
 [submodule "explorer/desafios/gitfav"]
 	path = explorer/desafios/gitfav
 	url = https://github.com/joaoMarcos777/gitfav
