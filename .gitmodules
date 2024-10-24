@@ -67,10 +67,18 @@
 [submodule "explorer/desafios/spa-universe"]
 	path = explorer/desafios/spa-universe
 	url = https://github.com/joaoMarcos777/spa-universe
-
 [submodule "explorer/desafios/gitfav"]
 	path = explorer/desafios/gitfav
 	url = https://github.com/joaoMarcos777/gitfav
 [submodule "explorer/aulas/explorer-projeto-07"]
 	path = explorer/aulas/explorer-projeto-07
 	url = https://github.com/joaoMarcos777/explorer-projeto-07
+[submodule "explorer/aulas/rocket-notes-api"]
+	path = explorer/aulas/rocket-notes-api
+	url = https://github.com/joaoMarcos777/rocket-notes-api
+[submodule "explorer/aulas/rocket-notes"]
+	path = explorer/aulas/rocket-notes
+	url = https://github.com/joaoMarcos777/rocket-notes
+[submodule "explorer/desafios/rocket-movies-api"]
+	path = explorer/desafios/rocket-movies-api
+	url = https://github.com/joaoMarcos777/rocket-movies-api
